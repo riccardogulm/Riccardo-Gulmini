@@ -17,5 +17,6 @@ Framework:  PyTorch• TensorFlow• Scikit-Learn• NumPy• Pandas
 Databases: MySQL • PostgreSQL  
 Passion: Computer Vision • Machine Learning • Robotics
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](www.linkedin.com)
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/)
+&nbsp;
 &nbsp;
