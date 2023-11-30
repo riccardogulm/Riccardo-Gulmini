@@ -17,9 +17,12 @@ Framework:  PyTorch• TensorFlow• Scikit-Learn• NumPy• Pandas
 Databases: MySQL • PostgreSQL  
 Passion: Computer Vision • Machine Learning • Robotics
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png)](https://www.linkedin.com/in/riccardo-gulmini-734316219/)
+How to contact me?
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/riccardo-gulmini-734316219/)
 &nbsp;
 &nbsp;
+
+
 
 
 
