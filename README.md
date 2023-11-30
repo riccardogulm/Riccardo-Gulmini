@@ -20,3 +20,8 @@ Passion: Computer Vision • Machine Learning • Robotics
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/riccardo-gulmini-734316219/)
 &nbsp;
 &nbsp;
+
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) LinkedIn](riccardogulmini.rg@gmail.com)
+&nbsp;
+&nbsp;
+
