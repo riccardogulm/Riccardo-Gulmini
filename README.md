@@ -15,7 +15,7 @@ What are my skill sets?
 Programming: Python • Java • MySQL  
 Framework:  PyTorch• TensorFlow• Scikit-Learn• NumPy• Pandas  
 Databases: MySQL • PostgreSQL  
-Passion: Computer Vision • Machine Learning • Robotics
+Passion: Computer Vision • Robotics
 
 How to contact me?
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) Linkedin](https://www.linkedin.com/in/riccardo-gulmini-734316219/)
