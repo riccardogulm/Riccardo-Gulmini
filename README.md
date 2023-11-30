@@ -12,7 +12,7 @@ Pursuing my Master Thesis on Computer Vision
 
 What are my skill sets?
 🗄️ Computer Science:
-Programming: Python • Java • MySQL  
+Programming: Python • Java • MySQL  • PostgreSQL
 Framework:  PyTorch• TensorFlow• Scikit-Learn• NumPy• Pandas  
 Databases: MySQL • PostgreSQL  
 Passion: Computer Vision • Robotics
