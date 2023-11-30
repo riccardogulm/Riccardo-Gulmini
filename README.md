@@ -16,3 +16,6 @@ Programming: Python • Java • MySQL
 Framework:  PyTorch• TensorFlow• Scikit-Learn• NumPy• Pandas  
 Databases: MySQL • PostgreSQL  
 Passion: Computer Vision • Machine Learning • Robotics
+
+
+https://www.linkedin.com/in/riccardo-gulmini-734316219/ 
