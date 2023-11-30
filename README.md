@@ -21,7 +21,7 @@ Passion: Computer Vision • Machine Learning • Robotics
 &nbsp;
 &nbsp;
 
-[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](riccardogulmini.rg@gmail.com)
+[![Linkedin](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://riccardogulmini.rg@gmail.com)
 &nbsp;
 &nbsp;
 
