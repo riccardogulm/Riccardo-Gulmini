@@ -1,12 +1,15 @@
 # Riccardo-Gulmini
-Hi there 👋
+Hi there 👋  
+
 Who I am?
 I am currently pursuing a Master's degree in Computer Science and Engineering at Politecnico di Milano
-I have a deep passion for Computer Science and Artificial Intelligence.
+I have a deep passion for Computer Science and Artificial Intelligence.  
+
 What I'm doing?
 Writing Python, MySQL, Java, C.
 Mostly active on LinkedIn
-Pursuing my Master Thesis on Computer Vision
+Pursuing my Master Thesis on Computer Vision  
+
 What are my skill sets?
 🗄️ Computer Science:
 Programming: Python • Java • MySQL
