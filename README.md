@@ -6,7 +6,7 @@ I am currently pursuing a Master's degree in Computer Science and Engineering at
 I have a deep passion for Computer Science and Artificial Intelligence.  
 
 What I'm doing?  
-Writing Python, MySQL, Java, C.  
+Writing Python, MySQL, Java.  
 Mostly active on LinkedIn  
 Pursuing my Master Thesis on Computer Vision    
 
